@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALXTool", "ALXTool\ALXTool.csproj", "{AE7ADAE6-F702-4DCB-BAAB-1572D9CD455F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7ADAE6-F702-4DCB-BAAB-1572D9CD455F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7ADAE6-F702-4DCB-BAAB-1572D9CD455F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7ADAE6-F702-4DCB-BAAB-1572D9CD455F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7ADAE6-F702-4DCB-BAAB-1572D9CD455F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C4BF33-2847-44C2-9129-C648AF360EED}
+	EndGlobalSection
+EndGlobal
